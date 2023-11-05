@@ -17,3 +17,7 @@ curl -H "x-api-key: ${DOC_API_KEY}" \
 https://api.doc.govt.nz/v1/tracks/${assetId}/detail | \
 jq -c '.dogsAllowed,.name'
 ```
+
+```bash
+jq -c '.[]."assetId"' samples/tracks.json -r | while read assetId; do curl -H "x-api-key: ${DOC_API_KEY}" https://api.doc.govt.nz/v1/tracks/${assetId}/detail -s | jq -c '{"name":.name,"d":.dogsAllowed,"a":.permittedActivities}' -r | grep -v "No dogs" | grep -i "Mountain biking" >> dog_bike.txt; done
+```

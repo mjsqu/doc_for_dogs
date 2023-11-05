@@ -1,0 +1,71 @@
+{"name":"Te Iringa Track","d":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit.","a":["Mountain biking"]}
+{"name":"Ahuriri Valley Track","d":"Dogs allowed. Keep dog under control at all times.","a":["Horse riding","Mountain biking","Walking and tramping"]}
+{"name":"Aratiatia Rapids Lookout Walk","d":"Dogs allowed. Keep dog under control at all times.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Archer Track","d":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Bannockburn Sluicings","d":"Dogs on a leash only","a":["Mountain biking","Walking and tramping"]}
+{"name":"Bob’s Cove Track & Nature Walk","d":"Dogs on a leash only","a":["Mountain biking","Walking and tramping"]}
+{"name":"Burtton's Track","d":"Dogs on a leash only","a":["Mountain biking","Walking and tramping"]}
+{"name":"Butterfields Wetland Walk","d":"Dogs allowed. Keep dog under control at all times.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Deans Bank Track","d":"Dogs allowed. Keep dog under control at all times.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Fowlers Pass Track","d":"Dogs allowed. Keep dog under control at all times.","a":["Horse riding","Mountain biking","Walking and tramping"]}
+{"name":"Homestead Run","d":"Dogs allowed. Keep dog under control at all times.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Hopkins valley tracks","d":null,"a":["Four wheel driving","Horse riding","Mountain biking","Walking and tramping"]}
+{"name":"Jack's Point Track","d":"Dogs on a leash only","a":["Mountain biking","Walking and tramping"]}
+{"name":"Karangahake Gorge Historic Walkway","d":"Dogs on a leash only","a":["Mountain biking","Walking and tramping"]}
+{"name":"Kawakawa Bay tracks","d":"Dogs allowed. Keep dog under control at all times.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Kiko Loop Track","d":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Lake Emily tracks","d":"Dogs allowed. Keep dog under control at all times.","a":["Horse riding","Mountain biking","Walking and tramping"]}
+{"name":"Lake Emma to Lake Camp Track","d":"Dogs allowed. Keep dog under control at all times.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Lake Hayes Walkway","d":"Dogs on a leash only","a":["Mountain biking","Walking and tramping"]}
+{"name":"Lake Ōhau Track","d":"Dogs on a leash only","a":["Mountain biking","Walking and tramping"]}
+{"name":"Lake Roxburgh Walkway","d":"Dogs allowed. Keep dog under control at all times.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Macaulay Hut Track","d":"Dogs allowed. Keep dog under control at all times.","a":["Four wheel driving","Horse riding","Mountain biking","Walking and tramping"]}
+{"name":"Mt Fyffe and the Seaward Kaikōura Range","d":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Mt Patriarch Route","d":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Nevis Valley tracks","d":"Dogs allowed. Keep dog under control at all times.","a":["Four wheel driving","Horse riding","Mountain biking","Walking and tramping"]}
+{"name":"Nydia Track","d":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Opouri Bridle Track","d":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Otago Central Rail Trail","d":"Dogs allowed. Keep dog under control at all times.","a":["Horse riding","Mountain biking","Walking and tramping"]}
+{"name":"Pakihi Track","d":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Richmond Trail","d":"Dogs allowed. Keep dog under control at all times.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Remutaka Rail Trail","d":"Dogs allowed. Keep dog under control at all times.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Rotary Ride and Waikato River Track","d":"Dogs allowed. Keep dog under control at all times.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Seven Mile Track/Wilson Bay Track","d":"Dogs on a leash only","a":["Mountain biking","Walking and tramping"]}
+{"name":"Stanley River Route","d":"Dogs allowed. Keep dog under control at all times.","a":["Horse riding","Mountain biking","Walking and tramping"]}
+{"name":"Te Waiti Hut Walk","d":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Tongariro River Trail","d":"Dogs allowed. Keep dog under control at all times.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Tree Trunk Gorge tracks","d":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Twelve Mile Delta to Bob’s Cove Track","d":"Dogs on a leash only","a":["Mountain biking","Walking and tramping"]}
+{"name":"Upper Clutha River Track","d":"Dogs allowed. Keep dog under control at all times.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Waihāhā and Waihora tracks","d":"Dogs allowed. Keep dog under control at all times.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Waikakaho/Cullen Creek Walkway","d":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Wakamarina Track","d":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Whakaipo Bay tracks","d":"Dogs allowed. Keep dog under control at all times.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Wharfedale Track","d":"Dogs allowed. Keep dog under control at all times.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Okiwi Bay Seaward Valley Track","d":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Patutu Route","d":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Tirohanga Dunes Trail","d":"Dogs allowed. Keep dog under control at all times.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Aorangi Crossing","d":"Dogs allowed. Keep dog under control at all times.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Waihāhā Hut Track","d":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Hunter Valley tracks","d":"Not Applicable","a":["Four wheel driving","Horse riding","Mountain biking","Walking and tramping"]}
+{"name":"Arawata Bridle Track","d":"Dogs on a leash only","a":["Mountain biking","Walking and tramping"]}
+{"name":"Mount Robertson tracks","d":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Rock Peak Track","d":"Dogs allowed. Keep dog under control at all times.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Greta Track","d":"Dogs on a leash only","a":["Horse riding","Mountain biking","Walking and tramping"]}
+{"name":"Pukaki Flats walk","d":"Dogs on a leash only","a":["Horse riding","Mountain biking","Walking and tramping"]}
+{"name":"Newcastle Track","d":"Dogs allowed. Keep dog under control at all times.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Nicholsons Track","d":"Dogs allowed. Keep dog under control at all times.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Luggate Creek Track","d":"Dogs on a leash only","a":["Mountain biking","Walking and tramping"]}
+{"name":"Hāwea River Track","d":"Dogs on a leash only","a":["Mountain biking","Walking and tramping"]}
+{"name":"Obelisk Loop Track Track","d":"Dogs allowed. Keep dog under control at all times.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Kopuwai Track to Sisters Track","d":"Dogs allowed. Keep dog under control at all times.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Outlet Track","d":"Dogs allowed. Keep dog under control at all times.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Hikuwai Link Track","d":"Dogs allowed. Keep dog under control at all times.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Flat Top Hill Tramping Track","d":null,"a":["Mountain biking","Walking and tramping"]}
+{"name":"Peregrine Loop Track","d":"Dogs on a leash only","a":["Mountain biking","Walking and tramping"]}
+{"name":"Huka Falls to Aratiatia Rapids Track","d":"Dogs allowed. Keep dog under control at all times.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Buicks Bridge to Potts Bridge Track","d":"Dogs allowed. Keep dog under control at all times.","a":["Horse riding","Mountain biking","Walking and tramping"]}
+{"name":"Potts Hut Track","d":"Dogs allowed. Keep dog under control at all times.","a":["Horse riding","Mountain biking","Walking and tramping"]}
+{"name":"Mystery Lake Track","d":"Dogs allowed. Keep dog under control at all times.","a":["Mountain biking","Walking and tramping"]}
+{"name":"Blowhard Track","d":"Dogs on a leash only","a":["Mountain biking","Walking and tramping"]}
+{"name":"Bypass Track","d":"Dogs on a leash only","a":["Mountain biking","Walking and tramping"]}

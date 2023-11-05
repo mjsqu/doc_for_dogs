@@ -1,0 +1,436 @@
+{"Mangahorehore Track":"Not Applicable"}
+{"Te Iringa Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Twin Kauri Track":"Not Applicable"}
+{"Waihoanga Gorge Kauri Walk":"Not Applicable"}
+{"A Frame Hut & Takapari Road Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Ahuriri Valley Track":"Dogs allowed. Keep dog under control at all times."}
+{"Alice Nash Memorial Heritage Lodge Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Allans Beach Track":"Dogs on a leash only"}
+{"Alpine Route":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Aotea Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Aratiatia Rapids Lookout Walk":"Dogs allowed. Keep dog under control at all times."}
+{"Archer Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Arohaki Lagoon Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Arrowtown Chinese Settlement":"Dogs on a leash only"}
+{"Bannockburn Sluicings":"Dogs on a leash only"}
+{"Big Bend Track":"Dogs on a leash only"}
+{"Black Hill Hut tracks":"Dogs on a leash only"}
+{"Blue Lake Track":"Dogs on a leash only"}
+{"Blue Lake walks":"Dogs on a leash only"}
+{"Bob’s Camp Bivouac Route ":"Dogs on a leash only"}
+{"Bob’s Cove Bridle Track":"Dogs on a leash only"}
+{"Bob’s Cove Track & Nature Walk":"Dogs on a leash only"}
+{"Boundary Creek Track":"Not Applicable"}
+{"Boyd Creek Track":"Dogs on a leash only"}
+{"Boyd, Oamaru and Cascade Hut tracks":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Bullendale & Dynamo Hut Tracks":"Dogs on a leash only"}
+{"Burrill Route":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Burtton's Track":"Dogs on a leash only"}
+{"Butcher Track":"Dogs on a leash only"}
+{"Butterfields Wetland Walk":"Dogs allowed. Keep dog under control at all times."}
+{"Camp Stream Hut Track":"Dogs allowed. Keep dog under control at all times."}
+{"Canyon Creek Track":"Dogs allowed. Keep dog under control at all times."}
+{"Cape Foulwind Walkway":"Dogs on a leash only"}
+{"Catchpool Loop Walk":"Dogs on a leash only"}
+{"Catlins River Track":"Dogs allowed. Keep dog under control at all times."}
+{"Cattle Ridge Track":"Dogs on a leash only"}
+{"Chalice–Goulter Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Chalkies Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Comet Road end to Shutes Hut":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Coppermine Road End tramping tracks":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Crown Track to Dickey's Flat":"Dogs on a leash only"}
+{"Crystal Battery Track":"Dogs on a leash only"}
+{"Cullen Point tracks":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Deans Bank Track":"Dogs allowed. Keep dog under control at all times."}
+{"Deerford Track to Makiekie Creek":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Deliverance Cove Track":"Dogs on a leash only"}
+{"Diamond Creek Track":"Dogs on a leash only"}
+{"Dingle Burn Track":"Not Applicable"}
+{"Donnelly Flat Loop Walk":"Dogs allowed. Keep dog under control at all times."}
+{"Double Hill access tracks":"Dogs allowed. Keep dog under control at all times."}
+{"Earnscleugh Tailings Track":"Dogs on a leash only"}
+{"East Ahuriri Track":"Dogs allowed. Keep dog under control at all times."}
+{"Ferndale tracks":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Field Hut and Table Top":"Dogs allowed. Keep dog under control at all times."}
+{"Five Mile Loop Track":"Dogs on a leash only"}
+{"Fowlers Pass Track":"Dogs allowed. Keep dog under control at all times."}
+{"Glenorchy Walkway":"Dogs on a leash only"}
+{"Glentui Loop Track":"Dogs on a leash only"}
+{"Grey River Nature Trail":"Dogs on a leash only"}
+{"Gunns Bush Track":"Dogs allowed. Keep dog under control at all times."}
+{"H Tree Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Hapuakohe Walkway":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Hauturu Highpoint Track ":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Hideaway Hut Route":"Dogs on a leash only"}
+{"Historic Haast to Paringa Cattle Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Holdsworth - Kaitoke Track":"Dogs allowed. Keep dog under control at all times."}
+{"Holdsworth roadend to Powell Hut/Mount Holdsworth":"Dogs allowed. Keep dog under control at all times."}
+{"Homestead Run":"Dogs allowed. Keep dog under control at all times."}
+{"Hongi Hika Walk":"Dogs on a leash only"}
+{"Hook Bush Route":"Dogs allowed. Keep dog under control at all times."}
+{"Hopkins valley tracks":null}
+{"Horokaka Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Huka Falls Lookout Walk":"Dogs allowed. Keep dog under control at all times."}
+{"Huriawa Pā Walk":"Dogs on a leash only"}
+{"Huxley valley tracks":null}
+{"Iron Gate Hut Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Jacks Blowhole Track":"Dogs on a leash only"}
+{"Jack's Point Track":"Dogs on a leash only"}
+{"Kahikatea Walk":"Dogs on a leash only"}
+{"Kaimanawa Road short walks":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Kaitoke Hot Springs Track to Mt Hobson (Hirakimata)":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Kānuka Track":"Dogs on a leash only"}
+{"Kapakapanui Track":"Dogs on a leash only"}
+{"Karangahake Gorge Historic Walkway":"Dogs on a leash only"}
+{"Kashmir Road tramping tracks":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Kauri Block Track":"Dogs on a leash only"}
+{"Kauri Dam Walk":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Kauri Stump Walk":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Kawakawa Bay tracks":"Dogs allowed. Keep dog under control at all times."}
+{"Kawatiri Historic Railway Walk":"Dogs allowed. Keep dog under control at all times."}
+{"Kaweka Road tramping tracks":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Kaweka Road walks":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Kelceys Bush tracks":"Dogs allowed. Keep dog under control at all times."}
+{"Kelly Knight Hut Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Kiko Loop Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Kiriwhakapapa Loop":"Dogs allowed. Keep dog under control at all times."}
+{"Knights Track to Pohangina Valley East Road":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Knights-Shorts Loop Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Kohekohe Walk":"Dogs on a leash only"}
+{"Kumeti Road end tramping tracks":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Kuripapango tramping tracks":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Lake Alta Track":"Dogs on a leash only"}
+{"Lake Chalice Hut tracks":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Lake Christabel tracks":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Lake Emily tracks":"Dogs allowed. Keep dog under control at all times."}
+{"Lake Emma to Lake Camp Track":"Dogs allowed. Keep dog under control at all times."}
+{"Lake Hayes Walkway":"Dogs on a leash only"}
+{"Lake Ngatu Track":"Dogs on a leash only"}
+{"Lake Ōhau Track":"Dogs on a leash only"}
+{"Lake Ohia Gumholes Reserve Walk":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Lake Roxburgh Walkway":"Dogs allowed. Keep dog under control at all times."}
+{"Langsview Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Lawrence Road tramping tracks":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Leitch's Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Leith Saddle Track":"Dogs on a leash only"}
+{"Lighthouse Walk":"Dogs on a leash only"}
+{"Little Manganuku Track ":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Londonderry Rock Walk":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Long Beach Walk":"Dogs allowed. Keep dog under control at all times."}
+{"Lotkow Road to Little's Clearing":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Macaulay Hut Track":"Dogs allowed. Keep dog under control at all times."}
+{"Maharahara Peak Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Main Ridge Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Makahu Road tramping tracks":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Mangahao Makahika Track":"Dogs on a leash only"}
+{"Mangamuka Tramping Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Manganuku Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Mangaone Walkway":"Dogs on a leash only"}
+{"Mangaotaki Walk":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Mangapumarumaru Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Mangatoa Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Manginangina Kauri Walk":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Mangleton Road to Park's Peak Ridge":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Mapoutahi Track":"Dogs on a leash only"}
+{"Masters Shelter to Golden Crown Ridge":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Matai Falls Walk":"Dogs on a leash only"}
+{"Maunganui Bluff Track":null}
+{"Maungauika/North Head Historic Walk":"Dogs on a leash only"}
+{"McKinnon Hut Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"McLean Falls Walk":"Dogs on a leash only"}
+{"Middle Ridge Track":"Dogs on a leash only"}
+{"Mikonui Catchment - Dickie Ridge/Upper Tuke River Route ":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Mitre Flats Track":"Dogs allowed. Keep dog under control at all times."}
+{"Koranga Tawa Loop Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Moeraki Valley Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Moki Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Mokoroa Stream Track ":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Mount Adams Route":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Mount Barrosa Track":"Dogs allowed. Keep dog under control at all times."}
+{"Mount Damper Falls Walk":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Mount Iron Track":"Dogs on a leash only"}
+{"Mount Stokes Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Mount Tutamoe Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Mt Crichton Loop Track":"Dogs on a leash only"}
+{"Mt Fishtail Route":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Mt Fyffe and the Seaward Kaikōura Range":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Mt Holdsworth - Jumbo Circuit":"Dogs allowed. Keep dog under control at all times."}
+{"Mt McKerrow":"Dogs on a leash only"}
+{"Mt Oxford tracks":"Dogs on a leash only"}
+{"Richardson Track":"Dogs on a leash only"}
+{"Mt Richmond routes":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Mt Sunday/Mt Riley Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Summit Track":"Dogs on a leash only"}
+{"Mt Urchin Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Mt Patriarch Route":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Nevis Valley tracks":"Dogs allowed. Keep dog under control at all times."}
+{"Nga Taonga Nature Walk":"Dogs on a leash only"}
+{"Ngapuketurua Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Nikau Flat and Kotepato Tracks":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"No.1 Line tracks":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Nydia Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Ohinetonga Track":"Dogs on a leash only"}
+{"Okupata Caves":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Old Man Hut Circuit":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Opepe walks":"Dogs allowed. Keep dog under control at all times."}
+{"Opera Point Walk":"Dogs on a leash only"}
+{"Opouri Bridle Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Opua Kauri Walk":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Oromahoe Traverse":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Ōrongorongo Track":"Dogs on a leash only"}
+{"Otago Central Rail Trail":"Dogs allowed. Keep dog under control at all times."}
+{"Otaika Valley Walk ":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Ōtaki Forks short walks":"Dogs allowed. Keep dog under control at all times."}
+{"Outram Glen to Lee Stream Walk":"Dogs on a leash only"}
+{"Oxenbridge Tunnel Track":"Dogs on a leash only"}
+{"Paihia School Road Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Pakihi Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Parata Tramping Track":"Dogs on a leash only"}
+{"Paines Ford Tramline Track":"Dogs on a leash only"}
+{"Ngahere Ara Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Picnic Gully Track":"Dogs allowed. Keep dog under control at all times."}
+{"Pinchgut Track":"Dogs on a leash only"}
+{"Pinnacles Track":"Dogs allowed. Keep dog under control at all times."}
+{"Piripiri Cave Walk":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Piroa Falls Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Piwakawaka Track":"Dogs on a leash only"}
+{"Port FitzRoy: Cooper's Castle Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Port FitzRoy: Kaiaraara Hut side tracks":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Port FitzRoy: Warren's and Bridle Tracks":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Pudding Hill Stream Route":"Dogs allowed. Keep dog under control at all times."}
+{"Pukatea Ridge Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Pukawa Bay walks":"Dogs on a leash only"}
+{"Pukeatua Track":"Dogs on a leash only"}
+{"Puketi Nature Trail ":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Purakaunui Falls Walk":"Dogs on a leash only"}
+{"Quailburn Track":"Dogs on a leash only"}
+{"Quartz Creek/Mount Royal Route":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Quartz Reef Point Walk":"Dogs on a leash only"}
+{"Rangitane Road to Crow Hut Loop Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Rangiwahia Hut - Deadmans Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Rangiwahia Hut Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Rarawa Beach Walk":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Renfrew Roadend to Table Flat Roadend":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Rerekapa Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Richmond Trail":"Dogs allowed. Keep dog under control at all times."}
+{"Remutaka Rail Trail":"Dogs allowed. Keep dog under control at all times."}
+{"Rokaiwhenua Stream Walk":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Rotary Ride and Waikato River Track":"Dogs allowed. Keep dog under control at all times."}
+{"Ruahine Corner to Rangitane Road":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Ruakaka Pipeline Road Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Ryde Falls tracks":"Dogs on a leash only"}
+{"Seven Mile Track/Wilson Bay Track":"Dogs on a leash only"}
+{"Signal Station Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Silver Peaks routes":"Not Applicable"}
+{"Six Foot Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Smith Creek - Tauherenikau River":"Dogs allowed. Keep dog under control at all times."}
+{"South Mavora Lake walking tracks":"Dogs on a leash only"}
+{"St Paul's Rock Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Stafford Bay Route":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Stanley River Route":"Dogs allowed. Keep dog under control at all times."}
+{"Table Flat - Kashmir Roadend West-East crossing":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Taita Bridle Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Talbot Forest Scenic Reserve tracks":"Dogs allowed. Keep dog under control at all times."}
+{"Tāne Mahuta Walk":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Tangihua Forest Nature Walk":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Tapeka Point Track":"Dogs on a leash only"}
+{"Tararua Southern Crossing":"Dogs allowed. Keep dog under control at all times."}
+{"Taumarumaru Scenic Reserve Walk":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Tauranga Loop Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Taurewa Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Tawa Grove Walk":"Dogs on a leash only"}
+{"Tawarau Forest tramping tracks":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Te Au Track":"Dogs on a leash only"}
+{"Te Kere Haka Track":"Dogs on a leash only"}
+{"Te Matua Ngahere Walk":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Te Puia Hut Track  and Mangatainoka Hot Springs":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Te Waiti Hut Walk":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Te Waiti Nature Trail":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Temple valley tracks":"Dogs on a leash only"}
+{"Toaroha, Hokitika, Lower Whitcombe Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Toaroha/Zit Saddle/Kokatahi/Lathrop Saddle/Styx River  Route ":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Tokatoka Scenic Reserve Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Te Waiti Route":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Tongariro River Trail":"Dogs allowed. Keep dog under control at all times."}
+{"Top Dingle Hut Track ":"Dogs on a leash only"}
+{"Tree Trunk Gorge tracks":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Trotters Gorge tracks":"Dogs on a leash only"}
+{"Twelve Mile Delta to Bob’s Cove Track":"Dogs on a leash only"}
+{"Twilight - Te Werahi Loop Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Upper Clutha River Track":"Dogs allowed. Keep dog under control at all times."}
+{"Urchin and Umukarikari tracks":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Visitor Centre to Te Anau Bird Sanctuary Walk":"Not Applicable"}
+{"Waiatiu Falls Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Waihāhā and Waihora tracks":"Dogs allowed. Keep dog under control at all times."}
+{"Waikakaho/Cullen Creek Walkway":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Waima Main Range Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Waiomu Kauri Grove Walk":"Dogs on a leash only"}
+{"Waiotemarama Waterfall Walk":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Waipakihi River tracks":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Waipapa River Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Waipu Caves Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Wairere Falls Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Waitaanga South Road to Te Rerepahupahu Falls Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Waitanguru Falls Walk":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Waitewaewae Hut Track":"Dogs allowed. Keep dog under control at all times."}
+{"Wakamarina Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Wanganui valley tracks":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Waoku Coach Road Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Wekaweka Track ":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Whakaipo Bay tracks":"Dogs allowed. Keep dog under control at all times."}
+{"Whakanui Track":"Dogs on a leash only"}
+{"Whakapono and Tumanako tracks":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Wharfedale Track":"Dogs allowed. Keep dog under control at all times."}
+{"Whataroa, Butler and Perth valleys tracks":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Whirinaki Waterfall Loop Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Whitcombe Pass Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Windy Canyon and Palmer's Track to Mt Hobson (Hirakimata)":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Forest Track":"Dogs on a leash only"}
+{"Northern Tangihua Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Okiwi Bay Seaward Valley Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Okiwi Bay Lookout Walk":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Patutu Route":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Sanctuary Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Sawcut Gorge/Isolated Hill Route":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Te Haua Uru Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Tirohanga Dunes Trail":"Dogs allowed. Keep dog under control at all times."}
+{"Gabriels Gully interpretation walk":"Dogs on a leash only"}
+{"Munro’s Gully Track":"Dogs on a leash only"}
+{"Ellangowan Scenic Reserve walk":"Dogs on a leash only"}
+{"Hay Scenic Reserve walk":"Dogs on a leash only"}
+{"Okuti Valley Scenic Reserve walk":"Dogs on a leash only"}
+{"Aorangi Crossing":"Dogs allowed. Keep dog under control at all times."}
+{"Mount Pureora from Link Road":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Mt Titiraupenga Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Waihāhā Hut Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Hauhungaroa Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Ketemaringi Route":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Hunter Valley tracks":"Not Applicable"}
+{"Skyline Walk":"Dogs allowed. Keep dog under control at all times."}
+{"Pelorus Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Goldsborough short walks":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Goldsborough (Shamrock) Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Tupapakurua Falls Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Mangamate Loop Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Te Pua-a-Tāne Circuit":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Whirinaki Recreation Camp tracks":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Rocky's Walk to Tinker's Gully":"Dogs on a leash only"}
+{"Southern Access Corridor":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Major Hornbrook Track":"Dogs on a leash only"}
+{"Arawata Bridle Track":"Dogs on a leash only"}
+{"Saddle Hill Summit Track":"Not Applicable"}
+{"Awaroa/Godley Head Loop Track":"Dogs on a leash only"}
+{"Surat Bay Beach Walk":"Dogs on a leash only"}
+{"Mount Robertson tracks":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Rock Peak Track":"Dogs allowed. Keep dog under control at all times."}
+{"Mount Pleasant Track":"Dogs on a leash only"}
+{"Port FitzRoy: Old Lady Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Matarangi Bluff Track":"Dogs on a leash only"}
+{"Lake Rotorangi Hydro Walkway":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Te U Route":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Hanmer Forest Park tramping tracks":"Dogs allowed. Keep dog under control at all times."}
+{"Awakiki Bush Track":"Dogs on a leash only"}
+{"Pounawea nature walks":"Dogs on a leash only"}
+{"Historic Railway Tunnel Walk":"Dogs on a leash only"}
+{"Kaka Point Bush Walk":"Dogs on a leash only"}
+{"Benmore Peninsula Walk":"Dogs on a leash only"}
+{"Greta Track":"Dogs on a leash only"}
+{"Tikitiki Scenic Stroll":"Dogs allowed. Keep dog under control at all times."}
+{"Buckland Peaks Track":"Not Applicable"}
+{"Pukaki Flats walk":"Dogs on a leash only"}
+{"Sawyers and Parsons Creek to Freehold Creek Track":"Dogs on a leash only"}
+{"Constant Bay Loop":"Dogs on a leash only"}
+{"Newcastle Track":"Dogs allowed. Keep dog under control at all times."}
+{"Derek Turnbull Track":"Dogs on a leash only"}
+{"Waipohatu Waterfalls Track":"Dogs on a leash only"}
+{"Long Hilly (Round Hill) Walking Track":"Dogs on a leash only"}
+{"Forest Walk":"Dogs on a leash only"}
+{"Pourakino Picnic Area Loop Track":"Dogs on a leash only"}
+{"Forks Flat Track":"Dogs on a leash only"}
+{"Foveaux Walkway":"Dogs on a leash only"}
+{"Kingswood Bush Scenic Reserve":"Dogs on a leash only"}
+{"Seaward Downs Loop Track":"Dogs on a leash only"}
+{"Glory Track":"Dogs on a leash only"}
+{"Rings Beach Loop Track":"Dogs on a leash only"}
+{"Opito Point Pā Walk":"Not Applicable"}
+{"Mica Mine Tops Route":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Kaitaia Walkway":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Barrs Falls (Barrs Falls Scenic Reserve)":"Dogs allowed. Keep dog under control at all times."}
+{"Nicholsons Track":"Dogs allowed. Keep dog under control at all times."}
+{"Luggate Creek Track":"Dogs on a leash only"}
+{"Hāwea River Track":"Dogs on a leash only"}
+{"Obelisk Loop Track Track":"Dogs allowed. Keep dog under control at all times."}
+{"Kopuwai Track to Sisters Track":"Dogs allowed. Keep dog under control at all times."}
+{"Māori Saddle Route":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Crown Range Road summit to Tuohys Gully":"Not Applicable"}
+{"Outlet Track":"Dogs allowed. Keep dog under control at all times."}
+{"Otago Dam Track":"Dogs on a leash only"}
+{"Cookson Kauri Walk":"Dogs on a leash only"}
+{"Hikuwai Link Track":"Dogs allowed. Keep dog under control at all times."}
+{"Longview Hut to Makaretu Hut Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Homes Ridge Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Stanfield Hut to Cattle Creek Hut Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Maukaatua Track":"Dogs with a DOC permit for recreational hunting or management purposes only"}
+{"Woodside Glen Walk":"Dogs on a leash only"}
+{"Flat Top Hill Tramping Track":null}
+{"Roxburgh Faces Tramping Track":"Dogs on a leash only"}
+{"Peregrine Loop Track":"Dogs on a leash only"}
+{"Mistletoe Bay tracks":null}
+{"Red Hills Route":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Whispering Falls Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Hacket Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Owharoa Falls Track":"Dogs allowed. Keep dog under control at all times."}
+{"Bennetts Bluff View Point Walk":null}
+{"Petrified Forest Walk":null}
+{"Penguin Walk":null}
+{"Ross Goldfield Water Race Walkway":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Mt Grey/Maukatere Track":"Dogs on a leash only"}
+{"Red Beech Track":"Dogs on a leash only"}
+{"Otanewainuku Lookout Track":null}
+{"Tarawaere Track":"Dogs on a leash only"}
+{"The Hihi Trig Track":null}
+{"Piraunui Track":"Dogs on a leash only"}
+{"Whangaiterenga Track":null}
+{"Outlook 76 Walk":"Dogs on a leash only"}
+{"Kauaeranga Nature Walk – Hoffman's Pool":"Dogs on a leash only"}
+{"Kahikatea Walk":"Dogs on a leash only"}
+{"Edwards Lookout":"Dogs on a leash only"}
+{"Jasper Creek Walk":"Dogs on a leash only"}
+{"Murrays Walk":"Dogs on a leash only"}
+{"Catleys Track":"Dogs on a leash only"}
+{"Titan Rocks Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Piano Flat Creek Loop Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Waikaia River Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Tararu Track":null}
+{"Tapu Summit to Crosbies Hut Track":null}
+{"Karaka Track":null}
+{"Te Puru Track":null}
+{"Waiomu Valley Track":null}
+{"Waiotahi Track":null}
+{"Government Battery Walk":null}
+{"Wentworth Mines Walk":"Dogs on a leash only"}
+{"Wentworth Falls Walk":"Dogs on a leash only"}
+{"Spa Park to Huka Falls Walk":"Dogs allowed. Keep dog under control at all times."}
+{"Duffy Creek Route":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Mount Haast Route":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Klondyke Spur Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Gem of the Boom Walk":"Dogs on a leash only"}
+{"Broken Hills Battery Walk":"Dogs on a leash only"}
+{"Golden Hills Battery Walk":"Dogs on a leash only"}
+{"Water Race Tunnel Track":"Dogs on a leash only"}
+{"Third Branch Track":"Dogs on a leash only"}
+{"Lake Stream Route":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Puketui Walk":"Dogs on a leash only"}
+{"Klondyke Valley Track":"Dogs with a DOC permit only. Contact the relevant DOC office to obtain a permit."}
+{"Huka Falls to Aratiatia Rapids Track":"Dogs allowed. Keep dog under control at all times."}
+{"Waterfall Track":"Dogs allowed. Keep dog under control at all times."}
+{"Chatterton River Track":"Dogs allowed. Keep dog under control at all times."}
+{"Buicks Bridge to Potts Bridge Track":"Dogs allowed. Keep dog under control at all times."}
+{"Potts Hut Track":"Dogs allowed. Keep dog under control at all times."}
+{"Mystery Lake Track":"Dogs allowed. Keep dog under control at all times."}
+{"Blowhard Track":"Dogs on a leash only"}
+{"Bypass Track":"Dogs on a leash only"}
+{"Wooded Gully Track":"Dogs on a leash only"}
+{"Ridge Track":"Dogs on a leash only"}
+{"Kereru Track":"Dogs on a leash only"}
+{"Red Pine Track":"Dogs on a leash only"}
