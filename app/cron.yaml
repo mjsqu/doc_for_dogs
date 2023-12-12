@@ -1,0 +1,4 @@
+cron:
+- description: "Update DOC Tracks"
+  url: /tasks/refresh_tracks
+  schedule: every 24 hours
