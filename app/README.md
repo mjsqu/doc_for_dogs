@@ -17,6 +17,15 @@ python3 -m venv .venv
 . .venv/bin/activate
 ```
 
+Add a `.env` file in the `app` directory and add these two values:
+
+```
+# Get an API Key from doc.govt.nz
+DOC_API_KEY=
+# Add your Google Cloud Project name
+GOOGLE_CLOUD_PROJECT=
+```
+
 Install Python requirements:
 
 ```
