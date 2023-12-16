@@ -18,7 +18,6 @@
 <html>
 <head>
   <title>DOC for Dogs</title>
-  <script src="{{ url_for('static', filename='script.js') }}"></script>
   <link type="text/css" rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
@@ -26,9 +25,12 @@
   <h1>DOC for Dogs</h1>
 
   <h2>All Track Asset IDs</h2>
-  {% for track in tracks %}
-    <p>{{ track }}</p>
-  {% endfor %}
-
+  <select id="dogsel">
+    {% for track in tracks %}
+    <option value="{{track}}">{{track}}</option>
+    {% endfor %}
+  </select>
+  <div id="display"></div>
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
 </body>
 </html>
