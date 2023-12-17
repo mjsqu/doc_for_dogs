@@ -3,7 +3,9 @@
 ### Running the app
 
 Ensure `.venv` and `.env` files are present in the app directory (see "Setting up" section)
+
 Activate the virtual environment
+
 Run (from the `app` directory):
 
 ```
