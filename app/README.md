@@ -1,5 +1,15 @@
 ## Google App Engine Doc For Dogs
 
+### Running the app
+
+Ensure `.venv` and `.env` files are present in the app directory (see "Setting up" section)
+Activate the virtual environment
+Run (from the `app` directory):
+
+```
+python main.py
+```
+
 ### Setting up
 Clone this repository and checkout feature/google_app
 
@@ -10,11 +20,14 @@ git checkout feature/google_app
 cd app
 ```
 
-Set up a virtual environment and activate it:
+While in the `app` directory, set up a virtual environment and activate it:
 
 ```
+# Linux
 python3 -m venv .venv
 . .venv/bin/activate
+# Windows (PowerShell)
+. .venv/Scripts/activate.ps1
 ```
 
 Add a `.env` file in the `app` directory and add these two values:
