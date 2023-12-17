@@ -17,6 +17,12 @@
 // [START gae_python3_log]
 
 // TODO: Set up a leaflet map here, centred on somewhere in the top-of-the-south
+var map = L.map('map').setView([-41, 174], 5);
+
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+}).addTo(map)
 
 // We have a selection box on the main page which allows you to pick which 'dogsAllowed' value
 // you want to get tracks for (e.g. Dogs on a leash only)        
@@ -52,11 +58,19 @@ sb.onchange = (event) => {
                 if (track.permittedActivities.includes('Mountain biking')) {
                   // TODO: This loop returns lat and lon for each track - set up leaflet markers for each point and add them to our map
                   strout.push(`${track['name']} ${track['lat']},${track['lon']} ${track.region}`);
+                  L.marker([track.lat, track.lon]).addTo(map);
+                  var currentMarkers = [];
+                  currentMarkers.push(L.marker);
                 }
               }
               disp.innerHTML = `<pre>${strout.join("\r\n")}</pre>`;
               
           })
         };
+
+  
+
+        
+       
 // [END gae_python3_log]
 // [END gae_python38_log]
