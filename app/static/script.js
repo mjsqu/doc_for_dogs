@@ -18,6 +18,7 @@
 
 // TODO: Set up a leaflet map here, centred on somewhere in the top-of-the-south
 var map = L.map('map').setView([-41, 174], 5);
+var currentMarkers = [];
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
@@ -50,17 +51,25 @@ sb.onchange = (event) => {
           .then((response) => response.json())
           .then((data) => {
               console.log(data);
+              
               var disp = document.getElementById('display');
               var strout = [];
               data.sort((a,b) => b.lat - a.lat)
+              if (typeof currentMarkers !== "undefined") {
+                console.log("Removing markers from map");
+                currentMarkers.forEach(marker => {
+                  marker.removeFrom(map);
+                });
+              }
+
               for (track of data) {
+                
                 // TODO: This line could be removed and replaced with a colour scheme or some other way of identifying which tracks are bikeable
                 if (track.permittedActivities.includes('Mountain biking')) {
                   // TODO: This loop returns lat and lon for each track - set up leaflet markers for each point and add them to our map
                   strout.push(`${track['name']} ${track['lat']},${track['lon']} ${track.region}`);
-                  L.marker([track.lat, track.lon]).addTo(map);
-                  var currentMarkers = [];
-                  currentMarkers.push(L.marker);
+                  var marker = L.marker([track.lat, track.lon]).addTo(map);
+                  currentMarkers.push(marker);
                 }
               }
               disp.innerHTML = `<pre>${strout.join("\r\n")}</pre>`;
